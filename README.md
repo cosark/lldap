@@ -35,6 +35,7 @@
 
 - [About](#about)
 - [Installation](docs/install.md)
+- [One-Click Deploy](#one-click-deploy)
 - [Usage](#usage)
   - [Recommended architecture](#recommended-architecture)
 - [Client configuration](#client-configuration)
@@ -86,6 +87,11 @@ MySQL/MariaDB or PostgreSQL.
 It's possible to install lldap from OCI images ([docker](docs/install.md#with-docker)/[podman](docs/install.md#with-podman)), from [Kubernetes](docs/install.md#with-kubernetes), [TrueNAS](docs/install.md#truenas-scale), or from [a regular distribution package manager](docs/install.md/#from-a-package-repository) (Archlinux, Debian, CentOS, Fedora, OpenSuse, Ubuntu, FreeBSD).
 
 Building [from source](docs/install.md#from-source) and [cross-compiling](docs/install.md#cross-compilation) to a different hardware architecture is also supported.
+
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/LLDAP/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/lldap"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
 
 ## Usage
 
